@@ -35,7 +35,7 @@ Aside from my formal education, I am deep-diving into:
 ---
 
 ### 📊 Contribution & Activity Overview
-![Metrics](./github-metrics.svg)
+![Maurício's GitHub stats](https://github-readme-stats.vercel.app/api?username=motamurono&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ### 📫 Reach Me
 * **Working on:** EchoEngine
