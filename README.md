@@ -34,11 +34,14 @@ Aside from my formal education, I am deep-diving into:
 
 ---
 
-### 📊 Contribution & Activity Overview
+### Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motamurono&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats Card" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motamurono&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=motamurono&show_icons=true&theme=dark&count_private=true" alt="Stats Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motamurono&layout=compact&theme=dark&hide_border=true" alt="Languages Card" />
 </p>
 
 ### 📫 Reach Me
