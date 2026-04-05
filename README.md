@@ -15,25 +15,27 @@ My current semester (2026/1) focuses on:
 * 🌐 **Web Technologies:** Web Development I & Web Design.
 * 💻 **Core Fundamentals:** Programming Logic & Computer Architecture.
 * 📡 **Infrastructure:** Computer Networks & Internet.
-* 🚀 **Practical Application:** Integrated Project I (Focusing on procedural systems).
+* 🚀 **Practical Application:** Integrated Project I.
 
 ---
 
-### 🛠️ Technical Focus & Learning
+### Technical Focus & Learning
 Aside from my formal education, I am deep-diving into:
 - **Low-level Graphics:** Studying the **Vulkan API** to power EchoEngine.
 - **Systems Programming:** Mastering **C++** for performance and **C#** for engine tooling.
 
 ### 🧰 Tech Stack & Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-E0212F?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📊 Contribution & Activity Overview
+![Metrics](./github-metrics.svg)
 
 ### 📫 Reach Me
 * **Working on:** EchoEngine
