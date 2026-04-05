@@ -33,18 +33,3 @@ Aside from my formal education, I am deep-diving into:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motamurono&show_icons=true&theme=dark&count_private=true" alt="Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motamurono&layout=compact&theme=dark&hide_border=true" alt="Languages Card" />
-</p>
-
-### 📫 Reach Me
-* **Working on:** EchoEngine
-* **Ask me about:** C++, Vulkan, Python, Java or just how my day is going :).
-* ![Location](https://img.shields.io/badge/Location-Brazil-green?style=flat-square&logo=googlemaps)
